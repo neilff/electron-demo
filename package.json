@@ -9,6 +9,7 @@
   "author": "Neil Fenton <neilff@gmail.com> (https://www.github.com/neilff)",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.13.3",
     "menubar": "^2.3.0"
   }
 }

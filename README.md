@@ -90,3 +90,5 @@ $ electon .
 ## Additional
 
 - [Menubar](https://github.com/maxogden/menubar)
+- [Awesome Electron](https://github.com/sindresorhus/awesome-electron)
+- [Technical Difference Between node-webkit](https://github.com/atom/electron/blob/master/docs/development/atom-shell-vs-node-webkit.md)
